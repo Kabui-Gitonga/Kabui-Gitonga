@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kabui-Gitonga
-- 👀 I’m interested in networking, java and cloud computing
+- 👀 I’m interested in networking, javascript and cloud computing
 - 🌱 I’m currently learning  networking and cloud computing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me 
 
 <!---
